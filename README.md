@@ -27,3 +27,14 @@ The below table gives you an idea to visit the historic places across INDIA.<br>
 | Ladakh    |       48           |    $200             |
 | Goa       |       48           |    $150             |
 | Hyderabad |       24           |    $50              |
+
+-------------------------------------------------------
+
+## MY FAVORITE'S  quotes
+> "Broken Crayons still color" 
+> *-Shelly Hitz*
+
+>"Life is dear to all beings. They have the right to live the same as we do."
+> *-Buddha*
+
+
