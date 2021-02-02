@@ -37,4 +37,24 @@ The below table gives you an idea to visit the historic places across INDIA.<br>
 >"Life is dear to all beings. They have the right to live the same as we do."
 > *-Buddha*
 
+----------------------------------------------------------
+
+# code fencing
+> E is an object-oriented programming language for secure distributed computing, created by Mark S. Miller, Dan Bornstein, and others at Electric Communities in 1997. E is mainly descended from the concurrent language Joule and from Original-E, a set of extensions to Java for secure distributed programming
+Source Link: <https://en.wikipedia.org/wiki/E_(programming_language)>
+
+```
+def factorial(n :int) :int {
+   if (n == 1) {
+     return 1
+   } else if (n > 0) {
+     return n * factorial(n-1)
+   } else {
+     throw("invalid argument to factorial: "+n)
+   }
+ }
+
+ ```
+ Source Link: <https://en.wikipedia.org/wiki/E_(programming_language)#Syntax_and_examples>
+ 
 
