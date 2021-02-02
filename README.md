@@ -11,5 +11,6 @@ Ice cream is the **coldest** **desert** in **history** I love to have Ice creams
    2. snacks
    3. toasts
    4. meat to grill
-
+* The necessary required knowledge for camping is to know how to set a tent, also a camp fire.
+* For survival one should know who to grill meat and also know some self defence from any wild animal   around.
 
