@@ -28,6 +28,12 @@ The below table gives you an idea to visit the historic places across INDIA.<br>
 | Goa       |       48           |    $150             |
 | Hyderabad |       24           |    $50              |
 
+![Kerala](Images/kerala.jpg)
+![Ladakh](Images/ladhak.jpg)
+![Goa](Images/goa.jpg)
+![Hyderabad](Images/Hyderabad.jpg)
+
+
 -------------------------------------------------------
 
 ## MY FAVORITE'S  quotes
@@ -56,5 +62,5 @@ def factorial(n :int) :int {
 
  ```
  Source Link: <https://en.wikipedia.org/wiki/E_(programming_language)#Syntax_and_examples>
- 
+
 
